@@ -61,7 +61,7 @@ I am Teeraphat PX Kullanankanjana, a course instructor who is interested in the 
 <table border="1" cellpadding="10" cellspacing="0" style="width:100%; text-align:center; border-collapse: collapse;">
   <tr>
     <th>Platform</th>
-    <th>Family/Board</th>
+    <th>Brand/Product</th>
   </tr>
   <tr>
     <td>
